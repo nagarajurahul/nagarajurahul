@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rahul Nagaraju</h1>
-<h3 align="center">A passionate software engineer</h3>
+# Hey there! I'm Rahul Nagaraju 👋
+
+Welcome to my GitHub profile! 
+
+I’m a passionate **Cloud Engineer** with over 5 years of experience building scalable, efficient, and resilient cloud infrastructures. I love solving complex problems and bringing ideas to life with robust solutions in cloud engineering, DevOps, and Site Reliability Engineering (SRE). I’m thrilled to push the boundaries of what’s possible with cloud technologies.
+
+---
+
+### 🚀 What I Bring to the Table
+
+- **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, and Terraform, I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
+- **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I’m all about optimizing workflows to improve efficiency and minimize downtime.
+- **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle challenges.
+
+---
 
 - 🔭 I’m currently working on [GoFlights](https://github.com/rahulnagaraju724/GoFlights)
 
@@ -11,7 +24,9 @@
 
 - 📫 How to reach me **nagarajurahul6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahulnagaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulnagaraju" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulnagaraju724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulnagaraju724" height="30" width="40" /></a>
@@ -75,18 +90,15 @@
 </div>
     
 <p align="left">
-    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-    <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-    <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/></a>
+    <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
     <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+    <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+    <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/></a>
     
 </p>
 
@@ -95,3 +107,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&show_icons=true&locale=en" alt="rahulnagaraju724" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&" alt="rahulnagaraju724" /></p>
+
+
+---
+
+Thanks for stopping by, and feel free to explore my projects! 😊
