@@ -1,6 +1,6 @@
 # Hey there! I'm Rahul Nagaraju 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 
 I’m a passionate **Cloud Engineer** with over 5 years of experience building scalable, efficient, and resilient cloud infrastructures. I love solving complex problems and bringing ideas to life with robust solutions in cloud engineering, DevOps, and Site Reliability Engineering (SRE). I’m thrilled to push the boundaries of what’s possible with cloud technologies.
 
@@ -36,6 +36,7 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
 </p>
 
 ---
+
 <h3 align="left">🛠 Technical Skills</h3>
 <!-- <div style="display: flex; align-items: center; gap: 15px;">
     <h4 style="margin: 0; color: #D3D3D3;"></h4>
@@ -108,12 +109,15 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
     </div>
 </div>
 
+---
+
+<h3 align="left">📈 My GitHub Stats</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnagaraju724&show_icons=true&locale=en&layout=compact" alt="rahulnagaraju724" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&show_icons=true&locale=en" alt="rahulnagaraju724" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&" alt="rahulnagaraju724" /></p>
-
 
 ---
 
