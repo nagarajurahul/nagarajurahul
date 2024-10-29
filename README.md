@@ -113,8 +113,8 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
