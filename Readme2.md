@@ -6,7 +6,7 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
 
 ---
 
-### 🚀 What I Bring to the Table
+<h3 align="left">🚀 What I Bring to the Table</h3>
 
 - **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, and Terraform, I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
 - **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I’m all about optimizing workflows to improve efficiency and minimize downtime.
@@ -26,13 +26,22 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+<h3 align="left">🌐 Connect with Me</h3>
+
+I'm always open to discussing cloud engineering, SRE, and exciting tech innovations. Feel free to reach out!
+
 <p align="left">
 <a href="https://linkedin.com/in/rahulnagaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulnagaraju" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulnagaraju724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulnagaraju724" height="30" width="40" /></a>
 </p>
 
-
+---
+<h3 align="left">🛠 Technical Skills</h3>
+<!-- <div style="display: flex; align-items: center; gap: 15px;">
+    <h4 style="margin: 0; color: #D3D3D3;"></h4>
+    <div style="display: flex; gap: 10px;">
+    </div>
+</div> -->
 <div style="display: flex; align-items: center; gap: 15px;">
     <h4 style="margin: 0; color: #D3D3D3;">Programming Languages:</h4>
     <div style="display: flex; gap: 10px;">
@@ -42,11 +51,6 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"> </a>
-    </div>
-</div>
-<div style="display: flex; align-items: center; gap: 15px;">
-    <h4 style="margin: 0; color: #D3D3D3;"></h4>
-    <div style="display: flex; gap: 10px;">
     </div>
 </div>
 <div style="display: flex; align-items: center; gap: 15px;">
@@ -89,7 +93,9 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
     </div>
 </div>
     
-<p align="left">
+<div style="display: flex; align-items: center; gap: 15px;">
+    <h4 style="margin: 0; color: #D3D3D3;">Other Tools: </h4>
+    <div style="display: flex; gap: 10px;">
     <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/></a>
     <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
@@ -99,8 +105,8 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
     <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
     <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/></a>
-    
-</p>
+    </div>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnagaraju724&show_icons=true&locale=en&layout=compact" alt="rahulnagaraju724" /></p>
 
