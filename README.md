@@ -1,4 +1,5 @@
-# Hey there! I'm Rahul Nagaraju 👋
+
+<h1 align="left"> Hey there! I'm Rahul Nagaraju 👋</h1>
 
 Welcome to my GitHub profile!
 
@@ -112,12 +113,14 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
 ---
 
 
-# 📊 GitHub Stats:
+<h3> 📊 GitHub Stats: </h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnagaraju724&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+<h3> 🔝 Top Contributed Repo </h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=rahulnagaraju724&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 <!-- <h3 align="left">📈 My GitHub Stats</h3>
