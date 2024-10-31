@@ -9,19 +9,19 @@ I’m a passionate **Cloud Engineer** with over 5 years of experience building s
 
 <h3 align="left">🚀 What I Bring to the Table</h3>
 
-- **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, and Terraform, I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
-- **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I’m all about optimizing workflows to improve efficiency and minimize downtime.
+- **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, Terraform and Jenkins. I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
+- **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I love optimizing workflows to improve efficiency and minimize downtime.
 - **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle challenges.
 
 ---
 
 - 🔭 I’m currently working on [GoFlights](https://github.com/rahulnagaraju724/GoFlights)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning to expertise in **Spring and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://rahulnagaraju724.github.io/portfolio/](https://rahulnagaraju724.github.io/portfolio/)
 
-- 💬 Ask me about **Docker, Kubernetes, and Automation Tools**
+- 💬 Ask me about **Cloud, Docker, Kubernetes, and Automation Tools**
 
 - 📫 How to reach me **nagarajurahul6@gmail.com**
 
