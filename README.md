@@ -5,6 +5,8 @@ Welcome to my GitHub profile!
 
 I’m a passionate **Cloud Engineer** with over 5 years of experience building scalable, efficient, and resilient cloud infrastructures. I love solving complex problems and bringing ideas to life with robust solutions in cloud engineering, DevOps, and Site Reliability Engineering (SRE). I’m thrilled to push the boundaries of what’s possible with cloud technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnagaraju724&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnagaraju724" /> </p>
+
 ---
 
 <h3 align="left">🚀 What I Bring to the Table</h3>
