@@ -130,8 +130,10 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
     </div>
 </div>
 
----
 
+
+<!--
+---
 
 <h3> 📊 GitHub Stats: </h3>
 
@@ -143,16 +145,22 @@ I'm always open to discussing cloud engineering, SRE, and exciting tech innovati
 
 ![](https://github-contributor-stats.vercel.app/api?username=rahulnagaraju724&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-<!-- <h3 align="left">📈 My GitHub Stats</h3>
+-->
+
+<!-- 
+<h3 align="left">📈 My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnagaraju724&show_icons=true&locale=en&layout=compact" alt="rahulnagaraju724" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulnagaraju724&show_icons=true&locale=en" alt="rahulnagaraju724" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&" alt="rahulnagaraju724" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnagaraju724&" alt="rahulnagaraju724" /></p> 
+-->
 
 ---
 
 Thanks for stopping by, and feel free to explore my projects! 😊
 
+<!--  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnagaraju724&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnagaraju724" /> </p>
+-->
