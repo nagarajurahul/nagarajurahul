@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning to expertise in **Spring and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://rahulnagaraju724.github.io/portfolio/](https://rahulnagaraju724.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nagarajurahul.github.io/portfolio/](https://rahulnagaraju724.github.io/portfolio/)
 
 - 💬 Ask me about **Cloud, Docker, Kubernetes, and Automation Tools**
 
