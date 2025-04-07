@@ -33,10 +33,11 @@
 - **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle challenges.
 
 ---
-
+<!--
 - 🔭 I’m currently working on [GoFlights](https://github.com/nagarajurahul/GoFlights)
-
-- 🌱 I’m currently learning to expertise in **Spring and Kubernetes**
+-->
+- 🔭 I’m currently working on [Terraform Multi-AZ VPC](https://github.com/nagarajurahul/terraform-aws-multi-az-vpc)
+- 🌱 I’m currently learning to expertise in **Spring, Kubernetes and Terraform**
 
 - 👨‍💻 All of my projects are available at [https://nagarajurahul.github.io/portfolio/](https://nagarajurahul.github.io/portfolio/)
 
