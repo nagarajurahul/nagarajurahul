@@ -34,7 +34,7 @@
 
 ---
 <!--
-- 🔭 I’m currently working on [GoFlights](https://github.com/nagarajurahul/GoFlights)
+- 🔭 I’m currently working on [GoFlights](https://github.com/nagarajurahul/GoFlights) 
 -->
 - 🔭 I’m currently working on [Terraform Multi-AZ VPC](https://github.com/nagarajurahul/terraform-aws-multi-az-vpc)
 - 🌱 I’m currently learning to expertise in **Spring, Kubernetes and Terraform**
