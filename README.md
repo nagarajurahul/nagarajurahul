@@ -11,7 +11,7 @@
         I thrive on solving complex problems and turning ideas into powerful cloud solutions. 
         Whether it’s Cloud Engineering, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible. 
         <br> <br>
-        Let’s connect and build something amazing together!"
+        Let’s connect and build something amazing together!
       </p>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=rahulnagaraju724&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnagaraju724" />
