@@ -28,9 +28,9 @@
 
 <h3 align="left">🚀 What I Bring to the Table</h3>
 
-- **Deep Cloud Expertise:** Skilled in AWS, Docker, Kubernetes, Terraform and Jenkins. I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
+- **Deep Cloud Expertise:** Skilled in AWS, Azure, Docker, Kubernetes, Terraform, Ansible and GitHub Actions. I’m experienced in creating robust, automated solutions for scalable cloud infrastructure.
 - **Automation & Efficiency:** From CI/CD pipelines to Infrastructure as Code, I love optimizing workflows to improve efficiency and minimize downtime.
-- **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle challenges.
+- **Mentorship & Collaboration:** I thrive in team environments and enjoy sharing knowledge, mentoring, and working together to tackle complex challenges in cloud or elsewhere.
 
 ---
 
@@ -39,11 +39,11 @@
 -->
 
 - 🔭 I’m currently working on [Terraform Multi-AZ VPC](https://github.com/nagarajurahul/terraform-aws-multi-az-vpc)
-- 🌱 I’m currently learning to expertise in **Spring, Kubernetes and Terraform**
+- 🌱 I’m currently dicing deep to achieve expertise in **Azure, Kubernetes, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://nagarajurahul.github.io/portfolio/](https://nagarajurahul.github.io/portfolio/)
 
-- 💬 Ask me about **Cloud, Docker, Kubernetes, and Automation Tools**
+- 💬 Ask me about **Cloud, Kubernetes, and Automation Tools**
 
 - 📫 How to reach me **nagarajurahul6@gmail.com**
 
@@ -51,7 +51,7 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 
-I'm always open to discussing cloud engineering, SRE, and exciting tech innovations. Feel free to reach out!
+I'm always open to discussing cloud engineering, DevOps, SRE, and exciting tech innovations. Feel free to reach out!
 
 <p align="left">
 <a href="https://linkedin.com/in/rahulnagaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulnagaraju" height="30" width="40" /></a>
