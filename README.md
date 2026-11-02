@@ -9,7 +9,7 @@
         <br> <br>
         I’m a passionate Cloud Engineer with nearly 5 years of experience crafting scalable, efficient, and resilient cloud infrastructures. 
         I thrive on solving complex problems and turning ideas into powerful cloud solutions. 
-        Whether it’s Cloud Engineering, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible. 
+        Whether it’s Cloud Engineering, MLOps, DevOps, or Site Reliability Engineering (SRE), I’m always pushing the boundaries of what’s possible. 
         <br> <br>
         Let’s connect and build something amazing together!
       </p>
